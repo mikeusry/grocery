@@ -1,0 +1,8 @@
+filename = "ChihadeInternational-2012-05-22T05-29-10"
+description = ""
+datestamp = "1337678951"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.14"
+sites[0][name] = "Chihade International"
+sites[0][url] = "http://chihade.prolifikseo.com/"
