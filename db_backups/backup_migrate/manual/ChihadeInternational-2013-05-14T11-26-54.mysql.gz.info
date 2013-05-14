@@ -1,0 +1,8 @@
+filename = "ChihadeInternational-2013-05-14T11-26-54"
+description = ""
+datestamp = "1368545216"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.22"
+sites[0][name] = "Chihade International"
+sites[0][url] = "http://staging/"
